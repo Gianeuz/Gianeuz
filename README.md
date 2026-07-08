@@ -1,11 +1,11 @@
 <div align="center">
   
-# Hello, I'm Gian! 👋
+# Hi there, I'm Gian! 👋
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=
-    Aspiring Software Engineer;
-    Always Learning, Always Building 📈;
+    Aspiring+Software+Engineer;
+    Always+Learning,+Always+Building;
     alt="Typing SVG" />
 </div>
 
