@@ -1,5 +1,7 @@
-# Hi there, I'm Gian! 👋
-
+<div align="center">
+  
+# Hello, I'm Gian! 👋
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Java+%26+Python+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
@@ -11,7 +13,6 @@
 *   🎓 **Currently studying:** Bachelor of Science in Computer Science at Cavite State University.
 *   💻 **Mainly coding in:** Java and Python.
 *   🌍 **Based in:** Manila, Philippines.
-*   🎧 **Off-screen:** Playing Roblox or vibing to Charli XCX, BTS, Tame Impala, and Lady Gaga.
 
 <details>
 <summary>✨ <b>Click to see what I'm currently working on!</b></summary>
@@ -39,7 +40,7 @@
 ### 📊 Quick Stats
 
 <div align="left">
-  <!-- NOTE: Replace 'YOUR_USERNAME' with your actual GitHub username to activate the stats card -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" />
 </div>
 
@@ -47,5 +48,5 @@
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-ticaya-070919176/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianticaya@gmail.com)
