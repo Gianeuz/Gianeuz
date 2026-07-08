@@ -6,17 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Junior+CS+Student;Yearner+.+.+." alt="Typing SVG"/>
   </a>
 </div>
-
-
-<div align="center">
-  <h2>About Me</h2>
-  <p>Hi, I'm Gian, Computer Science undergrad at Cavite State University with a strong interest in software development, algorithmic problem-solving, and clean object-oriented design.</p>
-</div>
-
-<br>
-
+---
 ### 🌐 My Socials
------
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gianeuz)
@@ -27,9 +18,8 @@
 
 </div>
 
+<div align="center">
+  <h2>About Me</h2>
+  <p>Hi, I'm Gian, Computer Science undergrad at Cavite State University with a strong interest in software development, algorithmic problem-solving, and clean object-oriented design. Currently I'm Exploring Prompt Engineering and Structured Algorithm</p>
+</div>
 
-<br>
-
-### 🌌 Currently Exploring
-**🤖 Prompt Engineering**  
-**🏗️ Structured Algorithm**
