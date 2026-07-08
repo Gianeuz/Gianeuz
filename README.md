@@ -3,7 +3,7 @@
   <p><em>CS Student &nbsp;·&nbsp; Tech Enthusiast &nbsp;·&nbsp; Creative Problem Solver </em></p>
   <br>
   <a href="https://github.com/gianeuz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Junior+CS+Student; Yearner" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Junior+CS+Student; Yearner; alt="Typing SVG"/>
   </a>
 </div>
 
