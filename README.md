@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h2>About Me</h2>
+  <h1>About Me</h1>
   <p>Hi, I'm Gian, Computer Science undergrad at Cavite State University with a strong interest in software development, algorithmic problem-solving, and clean object-oriented design. Currently I'm Exploring Prompt Engineering and Structured Algorithm</p>
 </div>
 
