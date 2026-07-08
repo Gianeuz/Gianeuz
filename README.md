@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Gian👋</h1>
+  <p><em>Computer Science Student &nbsp;·&nbsp; Msuic Enthusiast &nbsp;·&nbsp; Tech Explorer </em></p>
   <br>
   <a href="https://github.com/gianeuz">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Computer+Science+Student;" alt="Typing SVG"/>
