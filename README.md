@@ -3,12 +3,15 @@
 # Hello, I'm Gian! 👋
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Java+%26+Python+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=
+    Aspiring Software Engineer;
+    Always Learning, Always Building 📈;
+    alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 About Me (The 10-Second Read)
+### 👨‍💻 About Me
 
 *   🎓 **Currently studying:** Bachelor of Science in Computer Science at Cavite State University.
 *   💻 **Mainly coding in:** Java and Python.
