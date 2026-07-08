@@ -8,10 +8,14 @@
 
 <br>
 
-### 📬 Let's Connect!
+### 🌐 My Socials
 
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gianeuz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gian.euz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-ticaya-070919176/)
+[![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/w1pppajwnajl1z2vlv8vd4nya?si=684da75b0c2643ae)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](gianticaya@gmail.com)
+
+</div>
