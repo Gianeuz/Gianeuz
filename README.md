@@ -7,8 +7,6 @@
   </a>
 </div>
 
-<br>
-
 ## 🌐 Socials
 
 <div align="center">
@@ -35,6 +33,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&)
 
 </div>
+
+<br>
+<hr>
 
 <div align="center">
   <h1>About Me</h1>
