@@ -2,12 +2,14 @@
   <h1>Hi there, I'm Gian👋</h1>
   <br>
   <a href="https://github.com/gianeuz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=D4A860&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Computer+Science+Student;" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Computer+Science+Student;" alt="Typing SVG"/>
   </a>
 </div>
 
 <br>
-## My Socials
+
+### 📬 Let's Connect!
+
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gianeuz)
