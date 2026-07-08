@@ -6,8 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Junior+CS+Student;Yearner+.+.+." alt="Typing SVG"/>
   </a>
 </div>
----
+
 ### 🌐 My Socials
+
 <div align="center">
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gianeuz)
