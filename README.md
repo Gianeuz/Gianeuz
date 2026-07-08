@@ -7,6 +7,8 @@
   </a>
 </div>
 
+<br>
+
 ### 🌐 My Socials
 -----
 <div align="center">
