@@ -11,10 +11,7 @@
 
 <div align="center">
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logoColor=white)](https://www.facebook.com/gianeuz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logoColor=white)](https://www.instagram.com/gian.euz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/gian-ticaya-070919176/)
-[![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logoColor=white)](https://open.spotify.com/user/w1pppajwnajl1z2vlv8vd4nya?si=684da75b0c2643ae)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](gianticaya@gmail.com)
 
 </div>
@@ -31,10 +28,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badget&logo=github&)
 
 
 </div>
@@ -44,6 +37,6 @@
 
 <div align="center">
   <h1>About Me</h1>
-  <p>Hi, I'm Gian, Computer Science undergrad at Cavite State University. Currently I'm Exploring Prompt Engineering and Structured Algorithm</p>
+  <p>Hi, I'm Gian, Computer Science undergrad at Cavite State University</p>
 </div>
 
